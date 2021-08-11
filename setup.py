@@ -19,7 +19,7 @@ setup(
     description='For creating a CSV file for Ricoh copiers from information in LDAP',
     install_requires=[
         "pyad==0.6.0",
-        "pywin32==225",
+        "pywin32==301",
         "future==0.17.1",
     ],
     zip_safe=False,
